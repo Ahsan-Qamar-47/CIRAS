@@ -1,6 +1,6 @@
 # CIRAS - Cybercrime Incident Reporting & Analysis System
 
-![CIRAS Banner](assets/banner_placeholder.png)
+![CIRAS Banner](images/FireShot%20Capture%20009%20-%20CIRAS%20-%20Cybercrime%20Incident%20Reporting%20%26%20Analysis%20System%20-%20localhost.png)
 
 ## 📋 Project Overview
 
@@ -101,19 +101,19 @@ Built with a **LAMP Stack** (Linux, Apache, MySQL, PHP) and styled with **Tailwi
 
 ### Login Page
 *Secure login with glassmorphism design.*
-![Login Page](assets/screenshots/login_placeholder.png)
+![Login Page](images/FireShot%20Capture%20011%20-%20Login%20-%20CIRAS%20-%20localhost.png)
 
 ### Admin Dashboard
 *Global overview of system health and incident metrics.*
-![Admin Dashboard](assets/screenshots/admin_dashboard_placeholder.png)
+![Admin Dashboard](images/FireShot%20Capture%20003%20-%20Dashboard%20-%20CIRAS%20-%20localhost.png)
 
 ### Incident Reporting Form
 *Detailed form for capturing incident specifics.*
-![Reporting Form](assets/screenshots/report_form_placeholder.png)
+![Reporting Form](images/FireShot%20Capture%20005%20-%20Report%20New%20Incident%20-%20CIRAS%20-%20localhost.png)
 
 ### Investigation View
 *Case details, timeline, and evidence management.*
-![Case View](assets/screenshots/case_view_placeholder.png)
+![Case View](images/FireShot%20Capture%20014%20-%20View%20Incident%20-%20CIRAS%20-%20localhost.png)
 
 ---
 
